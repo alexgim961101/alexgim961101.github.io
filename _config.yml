@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "김지현"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Lotto의 실험실입니다."
+  location         : "South Korea"
   email            : "alexgim961101@gmail.com"
   links:
     - label: "Email"
