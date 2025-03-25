@@ -21,7 +21,7 @@ title                    : "Lotto's Lab"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김지현"
-description              : "An amazing website."
+description              : "Lotto의 실험실입니다."
 url                      : "https://alexgim961101.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
