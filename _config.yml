@@ -119,7 +119,7 @@ author:
   avatar           : "/assets/images/avatar.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Lotto의 실험실입니다."
   location         : "South Korea"
-  email            : "alexgim961101@gmail.com"
+  # email            : "alexgim961101@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
